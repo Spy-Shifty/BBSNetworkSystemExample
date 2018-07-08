@@ -14,7 +14,7 @@ Enter the app ID in the NetworkManagerGui GameObject
 ![alt text](http://brokenbricksstudios.com/wp-content/uploads/2018/07/BBSNetworkSystemExample_Unity.png)
 
 ## Start the game
-No just start the game, click on the connect button and have fun.
+Now just start the game, click the connect button and have fun.
 You will automatically join or create a game. A game can have up to 12 players per room.
 
 Controls:
