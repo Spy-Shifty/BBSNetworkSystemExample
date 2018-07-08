@@ -30,5 +30,10 @@ Here you can see some statistics of used traffics and messages per room...
 Have fun :)
   
   
+## Donate
+If you want to support us and the development of the NetworkSystem! 
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GTWT5GJSL7CEQ)
+
+Thank you very much! 
 
