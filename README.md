@@ -24,7 +24,7 @@ Fire: left mouse
 Reload: R
 
 After playing a while, go to the anlyze section in the photon backend under:
-https://dashboard.photonengine.com/en-US/App/Analytics/<<MYAPPID>>
+https://dashboard.photonengine.com/en-US/App/Analytics/MYAPPID
 Here you can see some statistics of used traffics and messages per room...
   
 Have fun :)
