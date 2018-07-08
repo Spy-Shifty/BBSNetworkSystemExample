@@ -1,0 +1,3 @@
+[submodule "Assets/BBSNetworkSystem"]
+	path = Assets/BBSNetworkSystem
+	url = https://github.com/Spy-Shifty/BBSNetworkSystem.git

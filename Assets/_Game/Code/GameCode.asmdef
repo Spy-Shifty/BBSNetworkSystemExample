@@ -1,0 +1,16 @@
+{
+    "name": "GameCode",
+    "references": [
+        "BBS.Networking",
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Entities.Hybrid",
+        "Unity.Entities.Properties",
+        "PhotonNetwork",
+        "Unity.Collections"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
